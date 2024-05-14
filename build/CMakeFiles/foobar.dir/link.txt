@@ -1,0 +1,1 @@
+D:\progs\emsdk\upstream\emscripten\emcc.bat -sEXPORTED_FUNCTIONS=_PrintFoo -sEXPORTED_RUNTIME_METHODS=ccall,cwrap @CMakeFiles\foobar.dir\objects1.rsp -o foobar.js
